@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+label, input{
+    width: 300px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
